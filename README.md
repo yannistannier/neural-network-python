@@ -1,3 +1,11 @@
 # neural-network-python
 
-en cours ..
+Réalisation de petit réseau de neurone from scrach avec backprop en python
+
+
+##### Xor
+
+
+
+
+##### Zone convexe
